@@ -7,4 +7,4 @@ do
 	cd ..
 done
 
-createrepo --database --update --xz --deltas .
+#createrepo --database --update --xz --deltas .
